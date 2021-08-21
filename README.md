@@ -8,9 +8,12 @@ Before I put anything on this file, I want to express my gratitude to all the pr
 1. [Programming](#programming)
 2. [Mathematics](#mathematics)
 3. [Computer Vision](#computer-vision)
-4. [Probabilistic Robobics](#probabilistic-robotics)
-5. [Planning](#planning)
+4. [Deep and Reinforcement Learning](#deep-and-reinforcement-learning)
+5. [Probabilistic Robobics and Planning](#probabilistic-robotics-and-planning)
 6. [Controls](#controls)
-7. [MOOCs](#moocs)
-8. [Books](#books)
+7. [Books](#books)
+
+---
+## Notes on courses
+ 
 
