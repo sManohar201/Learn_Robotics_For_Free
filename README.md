@@ -8,7 +8,7 @@ Before I put anything on this file, I want to express my gratitude to all the pr
 1. [Programming](#programming)
 2. [Mathematics](#mathematics)
 3. [Computer Vision](#computer-vision)
-4. [Deep and Reinforcement Learning](#deep-and-reinforcement-learning)
+4. [Deep Learning and Reinforcement Learning](#deep-learning-and-reinforcement-learning)
 5. [Probabilistic Robobics and Planning](#probabilistic-robotics-and-planning)
 6. [Controls](#controls)
 7. [Books](#books)
@@ -26,9 +26,19 @@ Before I put anything on this file, I want to express my gratitude to all the pr
 
 --- 
 ## Programming
-1. [Modern C++ Course For Computer Vision](https://www.ipb.uni-bonn.de/teaching/cpp-2020/)  <img height="10" src="assets/university.png">  <img height="10" src="assets/youtube.svg">  <img height="10" src="assets/cpp.png">  <img height="10" src="assets/video.jpg">
-2. [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/)  <img height="10" src="assets/university.png">  <img height="10" src="assets/cpp.png">  <img height="10" src="assets/video.jpg">
-3. [CS106X - Programming Abstractions](https://web.stanford.edu/class/cs106x/) <img height="10" src="assets/university.png"> <img height="10" src="assets/cpp.png"> <img height="10" src="assets/video.jpg">
+1. [Modern C++ Course For Computer Vision](https://www.ipb.uni-bonn.de/teaching/cpp-2020/)  <img height="12" src="assets/university.png">  <img height="12" src="assets/youtube.svg">  <img height="12" src="assets/cpp.png">  <img height="12" src="assets/video.jpg">
+2. [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/)  <img height="12" src="assets/university.png">  <img height="12" src="assets/cpp.png">  <img height="12" src="assets/video.jpg">
+3. [CS106X - Programming Abstractions](https://web.stanford.edu/class/cs106x/) <img height="12" src="assets/university.png"> <img height="12" src="assets/cpp.png"> <img height="12" src="assets/video.jpg">
+    * The lectures for the above two courses are on [youtube](https://www.youtube.com/c/lecturearchive/playlists) and you won't find it on the course site. 
 
-    * The lectures for the above two courses are on [youtube](https://www.youtube.com/c/lecturearchive/playlists) and you won't find on the course site. 
+## Mathematics
 
+## Computer Vision
+
+## Deep Learning and Reinforcement Learning
+
+## Probabilistic Robotics and Planning
+
+## Controls
+
+## Books
