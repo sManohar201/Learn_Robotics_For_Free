@@ -2,6 +2,7 @@
 
 Before I put anything on this file, I want to express my gratitude to all the professors and lecturers for making these courses accessible to the general public. 
 
+**Note** This list is unorganized currently, working to get it organized as quickly as possible. 
 ---
 ## Table of Contents:
 
@@ -51,6 +52,8 @@ Before I put anything on this file, I want to express my gratitude to all the pr
 1. [Efficient Route Planning](https://ad-wiki.informatik.uni-freiburg.de/teaching/EfficientRoutePlanningSS2012)
 2. [Introduction to Aerial Robotics](http://www.kostasalexis.com/introduction-to-aerial-robotics.html)
 3. [CS 333: Safe and Interactive Robotics](http://cs333.stanford.edu/)
+4. [F1TENTH - Autonomous systems](https://f1tenth-coursekit.readthedocs.io/en/latest/index.html)
+5. [CS354 Autonomous Robotics, James Madison University](https://w3.cs.jmu.edu/spragunr/CS354/schedule.shtml)
 
 ## Controls
 
